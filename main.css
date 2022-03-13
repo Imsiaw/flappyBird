@@ -21,4 +21,8 @@ background-color: black;
 #canvas{
 background-color: black;
 }
+@font-face {
+    font-family: "font1";
+    src: url(./assesst/font1.otf);
+}
 
